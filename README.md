@@ -51,12 +51,11 @@
 
 <br/>
 
-### 🐍 Minhas Contribuições
+### 📈 Minha Atividade Recente
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/antonyt8/antonyt8/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonyt8&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
-
 <br/>
 
 <p align="center">
